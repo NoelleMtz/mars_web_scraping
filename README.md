@@ -7,8 +7,8 @@ As you work on this Challenge, remember that you’re strengthening the same cor
 
 
 This new assignment consists of two technical products. You will submit the following deliverables:
-•	Deliverable 1: Scrape titles and preview text from Mars news articles.
-•	Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
+*	Deliverable 1: Scrape titles and preview text from Mars news articles.
+*	Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
 ## Part 1: Scrape Titles and Preview Text from Mars News
 
